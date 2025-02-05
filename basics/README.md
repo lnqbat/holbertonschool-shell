@@ -9,5 +9,4 @@
 8-firstdelete = rm .
 9-firstdirdeletion = rm -r tmp
 10-back = cd -
-11-lists = ls -la /boot
-
+11-lists = ls -la . .. /boot
