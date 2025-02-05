@@ -4,4 +4,5 @@
 3-listfiles = ls -l
 4-listmorefiles = ls -la
 5-listfilesdigitonly = ls -lna
-6-firstdirectory = mkdir /tmp/.....
+6-firstdirectory = mkdir /tmp/....
+7-movethatfile = mv /tmp/betty /tmp/mmy..
