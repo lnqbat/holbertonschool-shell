@@ -8,3 +8,4 @@
 7-movethatfile = mv /tmp/betty /tmp/mmy.
 8-firstdelete = rm .
 9-firstdirdeletion = rm -r tmp
+10-back = cd -
