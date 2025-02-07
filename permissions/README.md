@@ -4,3 +4,5 @@
 3-new_owner = chwn
 4-empty = touch
 5-execute = chmod 7
+6-multiple_permissions = chmod 754
+7-everybody = chmod 777
