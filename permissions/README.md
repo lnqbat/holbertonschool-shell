@@ -6,4 +6,6 @@
 5-execute = chmod 7
 6-multiple_permissions = chmod 754
 7-everybody = chmod +111
-8-James_Bond = chmod 007 
+8-James_Bond = chmod 007
+9-John_Doe = chmod 753
+10-mirror_permissions =
