@@ -3,3 +3,4 @@
 2-groups = groups
 3-new_owner = chwn
 4-empty = touch
+5-execute = chmod 7
